@@ -1,6 +1,8 @@
-# EMS_Project
-Employee Task Management System which is build in Mern Stack with React.js 
-In the project we have a login page who's atteched with two modules in which one is employee dashboard and second is admin dasboard.
-Admin getting the updates of employees, check employee details and give the task to any employee.
-In this project i used local storage for database.
-this is totally frontend(react.js) project i did not involved any backend technology.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
